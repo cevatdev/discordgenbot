@@ -17,11 +17,11 @@ KURULUM ADIMLARI 4
 run.bat dosyasını oluşturun ve botu çalıştırmak için kullanın.
 
 Fork Ekleme Planı
-5 fork: Stok komutu ekle
-10 fork: Free Rol Ve Premium Sistemi
-30 fork: özel admin panel yani şöyle .stockadd dediğinizde yetkilinin idsi varsa onu algılasın ona ozel ticket açsın şifre istesin programdanda şifre ayarlansın şifreyi biliyorsa stock eklesin
-50 fork: Web Version Webden stock ekleme webden bot isim ve profil fotoğrafı durum güncelleme
-100 fork: İstek üzerine özellikler
+5 star: Stok komutu ekle
+10 star: Free Rol Ve Premium Sistemi
+30 star: özel admin panel yani şöyle .stockadd dediğinizde yetkilinin idsi varsa onu algılasın ona ozel ticket açsın şifre istesin programdanda şifre ayarlansın şifreyi biliyorsa stock eklesin
+50 star: Web Version Webden stock ekleme webden bot isim ve profil fotoğrafı durum güncelleme
+100 star: İstek üzerine özellikler
 ```
 ![Ekran görüntüsü 2024-05-05 132031](https://github.com/cevatdev/discordgenbot/assets/164677184/3218f30d-a29b-4afe-9a7d-bb1be5dc5ea5)
 ![Ekran görüntüsü 2024-05-05 132101](https://github.com/cevatdev/discordgenbot/assets/164677184/f33bd944-7904-48b1-88cf-7719b979474f)

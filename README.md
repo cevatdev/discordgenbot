@@ -22,7 +22,7 @@ Fork Ekleme Planı
 50 fork: Web versiyonu
 100 fork: İstek üzerine özellikler
 ```
-!Ekran Görüntüsü 1
-!Ekran Görüntüsü 2
-!Ekran Görüntüsü 3
-!Ekran Görüntüsü 4
+![Ekran görüntüsü 2024-05-05 132031](https://github.com/cevatdev/discordgenbot/assets/164677184/3218f30d-a29b-4afe-9a7d-bb1be5dc5ea5)
+![Ekran görüntüsü 2024-05-05 132101](https://github.com/cevatdev/discordgenbot/assets/164677184/f33bd944-7904-48b1-88cf-7719b979474f)
+![Ekran görüntüsü 2024-05-05 132108](https://github.com/cevatdev/discordgenbot/assets/164677184/a67d8162-c689-48d5-9a44-d9f79f9edcc1)
+![Ekran görüntüsü 2024-05-05 132120](https://github.com/cevatdev/discordgenbot/assets/164677184/966537de-5c80-43e6-8a4c-6ec9be5565be)

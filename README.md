@@ -21,3 +21,8 @@ Fork Ekleme Planı
 20 fork: Ücretsiz, premium komutlar
 50 fork: Web versiyonu
 100 fork: İstek üzerine özellikler
+```
+!Ekran Görüntüsü 1
+!Ekran Görüntüsü 2
+!Ekran Görüntüsü 3
+!Ekran Görüntüsü 4

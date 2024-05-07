@@ -22,7 +22,8 @@ Fork Ekleme Planı
 50 star: Web Version Webden stock ekleme webden bot isim ve profil fotoğrafı durum güncelleme
 100 star: İstek üzerine özellikler
 ```
-![Ekran görüntüsü 2024-05-05 132031](https://github.com/cevatdev/discordgenbot/assets/164677184/3218f30d-a29b-4afe-9a7d-bb1be5dc5ea5)
-![Ekran görüntüsü 2024-05-05 132101](https://github.com/cevatdev/discordgenbot/assets/164677184/f33bd944-7904-48b1-88cf-7719b979474f)
-![Ekran görüntüsü 2024-05-05 132108](https://github.com/cevatdev/discordgenbot/assets/164677184/a67d8162-c689-48d5-9a44-d9f79f9edcc1)
-![Ekran görüntüsü 2024-05-05 132120](https://github.com/cevatdev/discordgenbot/assets/164677184/966537de-5c80-43e6-8a4c-6ec9be5565be)
+![Ekran görüntüsü 2024-05-07 182305](https://github.com/cevatdev/discordgenbot/assets/164677184/b74edc27-65a0-402b-8c89-58c551a62cc6)
+![Ekran görüntüsü 2024-05-07 182313](https://github.com/cevatdev/discordgenbot/assets/164677184/3acb1e8a-abe8-471e-a045-2c4553703f21)
+![Ekran görüntüsü 2024-05-07 182323](https://github.com/cevatdev/discordgenbot/assets/164677184/e1d5bceb-90ff-450f-a938-130299a8474e)
+![Ekran görüntüsü 2024-05-07 182241](https://github.com/cevatdev/discordgenbot/assets/164677184/775aa71f-258d-4735-9ef6-46eb8d52c778)
+

@@ -1,5 +1,6 @@
 # discordgenbot
 .gg/client by gabimaru tarafından yapılmıştır
+developing server https://discord.gg/QwDEBKK6
 
 ## KURULUM ADIMLARI 1
 Node.js indirin ve kurun.

@@ -16,7 +16,7 @@ Proje dizininizde bir .env dosyası oluşturun ve Discord botunuzun tokenini iç
 KURULUM ADIMLARI 4
 run.bat dosyasını oluşturun ve botu çalıştırmak için kullanın.
 
-not:discord v13 gelicektir
+not:discord v14 gelicektir
 
 Star Ekleme Planı
 5 star: Free Rol Ve Premium Sistemi / slash command

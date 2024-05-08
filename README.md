@@ -19,7 +19,7 @@ run.bat dosyasını oluşturun ve botu çalıştırmak için kullanın.
 not:discord v13 gelicektir
 
 Star Ekleme Planı
-5 star: Free Rol Ve Premium Sistemi
+5 star: Free Rol Ve Premium Sistemi / slash command
 30 star: özel admin panel yani şöyle .stockadd dediğinizde yetkilinin idsi varsa onu algılasın ona ozel ticket açsın şifre istesin programdanda şifre ayarlansın şifreyi biliyorsa stock eklesin
 50 star: Web Version Webden stock ekleme webden bot isim ve profil fotoğrafı durum güncelleme
 100 star: İstek üzerine özellikler

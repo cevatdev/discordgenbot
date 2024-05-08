@@ -22,6 +22,7 @@ Fork Ekleme Planı
 50 star: Web Version Webden stock ekleme webden bot isim ve profil fotoğrafı durum güncelleme
 100 star: İstek üzerine özellikler
 ```
+https://www.youtube.com/watch?v=dYEfLw0XERE
 ![Ekran görüntüsü 2024-05-07 182305](https://github.com/cevatdev/discordgenbot/assets/164677184/b74edc27-65a0-402b-8c89-58c551a62cc6)
 ![Ekran görüntüsü 2024-05-07 182313](https://github.com/cevatdev/discordgenbot/assets/164677184/3acb1e8a-abe8-471e-a045-2c4553703f21)
 ![Ekran görüntüsü 2024-05-07 182323](https://github.com/cevatdev/discordgenbot/assets/164677184/e1d5bceb-90ff-450f-a938-130299a8474e)
